@@ -1,0 +1,10 @@
+# demo and test outputs
+scratch/
+*.gdb/
+*.lock
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# ArcGIS Pro side files
+*.aux.xml
+*.ovr
