@@ -200,6 +200,10 @@ tools/build_metadata.py         Regenerates the *.pyt.xml help from one help dic
 
 The example error matrix counts were checked against the Olofsson et al. (2014) example as encoded in the `mapaccuracy` R package documentation (function `olofsson`).
 
+## AI assistance
+
+Built with an AI coding assistant (Claude Code, by Anthropic). Commits made with it carry its `Co-Authored-By` line.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
